@@ -11,8 +11,9 @@ ___
 * ⌚ Я не сижу на месте - я постоянно учусь!
 * 🔍 Хочу стать веб-разработчиком и найти работу мечты.
 * ✉️ Вы можете связаться со мной [![Telegram Badge](https://img.shields.io/badge/-ArtemLakatun-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artem_lakatun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:alakatuni@mail.ru)
+* 📰 Мои сертификаты вы можете увидеть тут 
 ___
-### 🔧 Навыки:
+### 🔧 Технологии:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,9 +26,11 @@ ___
 
 ___
 ### ✔️ Пройденные курсы:
-| Курсы                                                     |          Дата           |
-|-----------------------------------------------------------|:-----------------------:|
-| Основы веб технологий (it-academy.by № приказа 1/10-09-c) | 10/08/2022 - 10/09/2022 |
+| Курсы                                                                       |          Дата           |
+|-----------------------------------------------------------------------------|:-----------------------:|
+| Основы веб технологий (https://www.it-academy.by (ПВТ) № приказа 1/10-09-c) | 10/08/2022 - 10/09/2022 |
+| Алгоритмы: теория и практика (https://stepik.org/course/217/syllabus)       | 10/12/2022 - 12/02/2023 |
+| Практический мини-курс по JS и Bootstrap (https://stepik.org/cert/1945547)  | 12/02/2022 - 12/02/2023 |
 
 ___
 ### 📞 Социальные сети:
