@@ -55,7 +55,7 @@ ___
 ### 🔝 Git statistics:
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/artemlakatun"><img src="https://github-readme-stats.vercel.app/api?username=artemlakatun&show_icons=true,&hide=stars,&count_private=true,&theme=dark&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="artemlakatun's GitHub stats" /></a>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=artemlakatun&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemlakatun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
