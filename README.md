@@ -11,6 +11,7 @@ for specialization in information technology software. Studying different profes
 * ⌚ I don't sit still - I'm constantly learning!
 * 🔍 I want to become a web developer and find my dream job.
 * ✉ You can contact me [![Telegram Badge](https://img.shields.io/badge/-ArtemLakatun-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artem_lakatun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:alakatuni@mail.ru)
+* 📁 You can look my resume(CV) page [CLICK ME](https://artemlakatun.github.io/cv_site_card/)
 * 📰 You can see my certifications and work experience below.
 ___
 ### 🔧 Technologies:
