@@ -12,7 +12,7 @@ for specialization in information technology software. Studying different profes
 * 🔍 I want to become a web developer and find my dream job.
 * ✉ You can contact me [![Telegram Badge](https://img.shields.io/badge/-ArtemLakatun-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artem_lakatun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:alakatuni@mail.ru)
 * 📁 You can look my resume(CV) page [CLICK ME](https://artemlakatun.github.io/cv_site_card/)
-* 📰 You can see my certifications and work experience below.
+* 📰 You can see my certifications in resume and a work experience - below.
 ___
 ### 🔧 Technologies:
 <p align="left">
@@ -30,12 +30,13 @@ ___
 ___
 
 ### ✔️ Completed courses:
-| Courses                                                                                |          Date           |
-|----------------------------------------------------------------------------------------|:-----------------------:|
-| Fundamentals of web technologies (https://www.it-academy.by (HTP) Order No. 1/10-09-c) | 10/08/2022 - 10/09/2022 |
-| Algorithms: theory and practice (https://stepik.org/cert/1945519)                      | 10/12/2022 - 12/02/2023 |
-| Practical mini-course on JS and Bootstrap (https://stepik.org/cert/1945547)            | 12/02/2022 - 12/02/2023 |
-| Java script for beginners (https://stepik.org/cert/1962747)                            | 13/02/2022 - 21/02/2023 |
+| Courses                                                                                             |          Date           |
+|-----------------------------------------------------------------------------------------------------|:-----------------------:|
+| Web application development using java script (https://www.it-academy.by (HTP) Order No. 1/10-10-c) | 20/07/2023 - 10/10/2023 |
+| Java script for beginners (https://stepik.org/cert/1962747)                                         | 13/12/2022 - 21/02/2023 |
+| Practical mini-course on JS and Bootstrap (https://stepik.org/cert/1945547)                         | 12/12/2022 - 12/02/2023 |
+| Algorithms: theory and practice (https://stepik.org/cert/1945519)                                   | 10/12/2022 - 12/02/2023 |
+| Fundamentals of web technologies (https://www.it-academy.by (HTP) Order No. 1/10-09-c)              | 10/08/2022 - 10/09/2022 |
 
 ---
 ### 🔨 My Internships and jobs:
@@ -76,7 +77,7 @@ ___
 * ⌚ Я не сижу на месте - я постоянно учусь!
 * 🔍 Хочу стать веб-разработчиком и найти работу мечты.
 * ✉️ Вы можете связаться со мной [![Telegram Badge](https://img.shields.io/badge/-ArtemLakatun-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artem_lakatun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-green?style=flat&logo=Gmail&logoColor=white)](mailto:alakatuni@mail.ru)
-* 📰 Мои сертификаты вы можете увидеть тут 
+* 📰 Мои сертификаты вы можете увидеть в резюме, а опыт работы - ниже 
 ___
 ### 🔧 Технологии:
 <p align="left">
@@ -93,12 +94,13 @@ ___
 
 ___
 ### ✔️ Пройденные курсы:
-| Курсы                                                                      |          Дата           |
-|----------------------------------------------------------------------------|:-----------------------:|
-| Основы веб технологий (https://www.it-academy.by (ПВТ) № приказа 1/10-09-c)| 10/08/2022 - 10/09/2022 |
-| Алгоритмы: теория и практика (https://stepik.org/cert/1945519)             | 10/12/2022 - 12/02/2023 |
-| Практический мини-курс по JS и Bootstrap (https://stepik.org/cert/1945547) | 12/02/2022 - 12/02/2023 |
-| Java script для начинающих (https://stepik.org/cert/1962747)               | 13/02/2022 - 21/02/2023 |
+| Курсы                                                                                          |          Дата           |
+|------------------------------------------------------------------------------------------------|:-----------------------:|
+| Разработка веб-приложений на Java Script (https://www.it-academy.by (ПВТ) № приказа 1/10-10-c) | 20/07/2023 - 10/10/2023 |
+| Java script для начинающих (https://stepik.org/cert/1962747)                                   | 13/12/2022 - 21/02/2023 |
+| Практический мини-курс по JS и Bootstrap (https://stepik.org/cert/1945547)                     | 12/12/2022 - 12/02/2023 |
+| Алгоритмы: теория и практика (https://stepik.org/cert/1945519)                                 | 10/12/2022 - 12/02/2023 |
+| Основы веб технологий (https://www.it-academy.by (ПВТ) № приказа 1/10-09-c)                    | 10/08/2022 - 10/09/2022 |
 
 ---
 ### 🔨 Стажировки и места работы:
